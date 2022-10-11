@@ -1,0 +1,15 @@
+Introduction to Computer Science Using Python
+Code: The Hidden Language of Computer Hardware and Software
+JavaScript: The Good Parts
+The Elements of Computing Systems
+The Pragmatic Programmer
+Structure and Interpretation of Computer Programs
+Modern Operating Systems
+Introduction to Algorithms
+The New Turing Omnibus
+C Programming Language
+Free Software, Free Society
+The C++ Programming Language
+Data Structures and Algorithms
+Discrete Mathematics
+Microprocessor and Interfacing
